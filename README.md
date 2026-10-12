@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Redwan Rahman
 
-<!--
-**Redwan-Rahman/Redwan-Rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+## Currently studying
+- CSE706: Advanced Parallel Algorithm
+- CSE711: Advanced Machine Learning
+- CSE717: Mathematical Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python
+- **AI/ML:** LLMs, RAG, AI evaluation, Explainable AI, computer vision, custom neural networks, model performance optimization, high-stakes production AI
+- **Engineering:** Code optimization, toolchain creation, system design, software testing, Git workflows
